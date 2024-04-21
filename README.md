@@ -5,6 +5,7 @@ This repository hosts configuration files (dot files) for different types of sof
 Software list:
 - Neovim
 - AwesomeWM
+- Wezterm
 
 ### Final notes
 ---
